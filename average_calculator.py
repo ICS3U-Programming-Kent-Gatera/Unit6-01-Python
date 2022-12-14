@@ -2,7 +2,7 @@
 
 # Created by : Kent
 # Date: Dec. 11, 2022
-# This program gets a random number, attaches it to a list and finds it's average.
+# This program gets a calculates the average using a list.
 
 import avg_constants
 import random
