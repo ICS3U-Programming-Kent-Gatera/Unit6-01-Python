@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Created by : Kent
+# Created by : Kent G
 # Date: Dec. 11, 2022
 # This program gets a calculates the average using a list.
 
